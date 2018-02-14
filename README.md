@@ -1,0 +1,1 @@
+https://travis-ci.org/thinkful-ei18/christina-mongoose-testing-reading.svg?branch=feature%2Fwith-tests
